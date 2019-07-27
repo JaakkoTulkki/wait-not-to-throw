@@ -1,4 +1,4 @@
-export function waitNotToThrow(cb, timeout=100) {
+export default function waitNotToThrow(cb, timeout=100) {
   let errorMessage = '';
   return new Promise((resolve, reject) => {
     let timeCounter = 0;

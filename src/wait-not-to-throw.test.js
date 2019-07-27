@@ -1,4 +1,4 @@
-import {waitNotToThrow} from "./index"
+import waitNotToThrow from "./index";
 
 describe('waitNotToThrow', () => {
   it('should throw if cb does not stop throwing within default timeout', async (done) => {
