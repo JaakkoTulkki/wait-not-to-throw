@@ -1,6 +1,6 @@
 {
   "name": "wait-not-to-throw",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Function that waits for a function not to throw for a set period of time.",
   "main": "dist/main.js",
   "scripts": {
