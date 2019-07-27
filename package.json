@@ -7,6 +7,10 @@
     "test": "jest",
     "build": "webpack"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:JaakkoTulkki/wait-not-to-throw.git"
+  },
   "author": "",
   "license": "MIT",
   "devDependencies": {
